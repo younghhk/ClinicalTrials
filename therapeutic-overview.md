@@ -1,11 +1,13 @@
+
+layout: default
+title: Therapeutic Trials Overview
+---
+
 [Home](/ClinicalTrials/)
 | [Therapeutic Overview](/ClinicalTrials/therapeutic-overview)
 | [Protocol Guide](/ClinicalTrials/protocol-guide)
 | [Training Resources](/ClinicalTrials/training-resources)
 
----
-layout: default
-title: Therapeutic Trials Overview
 ---
 
 # Overview of Therapeutic Clinical Trials
