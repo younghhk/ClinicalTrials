@@ -2,9 +2,15 @@
 
 # NIH Clinical Trials Training Resources
 
+# Clinical Trials Training Resources
+
 ## Intro to Clinical Trial Design
 - **Overview Lecture**  
   https://videocast.nih.gov/watch=54728
+
+## Webinar on Clinical Trial Definition
+- **NIH’s Definition of a Clinical Trial**  
+  https://www.youtube.com/watch?v=GslIZLslk0s
 
 ## Moving From Observational Studies to Clinical Trials
 - **Why Do We Sometimes Get It Wrong? (1/2)**  
