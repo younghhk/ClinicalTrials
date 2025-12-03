@@ -1,8 +1,23 @@
 [![Back to Hub](https://img.shields.io/badge/⬅️%20Back%20to%20Hub-2962FF?style=for-the-badge)](https://github.com/younghhk/NCI)
 
-# NIH Clinical Trials Training Resources
-
 # Clinical Trials Training Resources
+
+## Overview of Therapeutic Clinical Trials
+Clinical research studies can be grouped into therapeutic and non therapeutic trials.
+
+Therapeutic trials give a treatment to participants to study its effect on a disease. These trials help determine safety, effectiveness, and how a treatment should be used in practice.
+
+Non therapeutic trials do not provide a treatment. They collect information that helps advance scientific understanding, such as risk factors, biomarkers, or patient experiences.
+
+Therapeutic trials often progress through three phases.
+
+- Phase I focuses on safety. Researchers test increasing dose levels to identify the maximum tolerated dose and observe early side effects. Patients with different conditions may be included.
+
+- Phase II evaluates whether the treatment shows benefit in a specific patient group. It uses the dose and schedule defined in Phase I.
+
+- Phase III compares the new treatment with the current standard to determine whether it improves outcomes or reduces side effects.
+
+---
 
 ## Intro to Clinical Trial Design
 - **Overview Lecture**  
