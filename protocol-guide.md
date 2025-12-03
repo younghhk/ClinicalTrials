@@ -1,12 +1,13 @@
-[Home](/ClinicalTrials/)
-| [Therapeutic Overview](/ClinicalTrials/therapeutic-overview)
-| [Protocol Guide](/ClinicalTrials/protocol-guide)
-| [Training Resources](/ClinicalTrials/training-resources)
 
 ---
 layout: default
 title: Protocol Guide
 ---
+[Home](/ClinicalTrials/)
+| [Therapeutic Overview](/ClinicalTrials/therapeutic-overview)
+| [Protocol Guide](/ClinicalTrials/protocol-guide)
+| [Training Resources](/ClinicalTrials/training-resources)
+
 
 # Clinical Trial Protocol Starter Guide
 
