@@ -1,7 +1,3 @@
----
-layout: default
-title: Training Resources
----
 
 [Home](/ClinicalTrials/)
 | [Therapeutic Overview](/ClinicalTrials/therapeutic-overview)
