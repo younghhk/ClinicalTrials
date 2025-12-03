@@ -1,6 +1,4 @@
 title: Clinical Trials Resource Hub
-theme: minima
 description: Training and protocol development resources for therapeutic clinical trials.
 
-# Enable site headers & footer links
-markdown: kramdown
+theme: minima
