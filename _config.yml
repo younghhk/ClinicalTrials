@@ -2,3 +2,6 @@ title: Clinical Trials Resource Hub
 description: Training and protocol development resources for therapeutic clinical trials.
 
 theme: minima
+
+plugins:
+  - jekyll-feed
